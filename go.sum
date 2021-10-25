@@ -1,6 +1,0 @@
-github.com/google/go-github v17.0.0+incompatible h1:N0LgJ1j65A7kfXrZnUDaYCs/Sf4rEjNlfyDHW9dolSY=
-github.com/google/go-github v17.0.0+incompatible/go.mod h1:zLgOLi98H3fifZn+44m+umXrS52loVEgC2AApnigrVQ=
-github.com/google/go-querystring v1.0.0 h1:Xkwi/a1rcvNg1PPYe5vI8GbeBY/jrVuDX5ASuANWTrk=
-github.com/google/go-querystring v1.0.0/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
-github.com/journey-ad/steam-go v0.0.0-20200608163049-04098724abaf h1:n2SXxXvJV18/4OgQXMYVO0GIb2exblGJGsg7QmJo83o=
-github.com/journey-ad/steam-go v0.0.0-20200608163049-04098724abaf/go.mod h1:sK6L9Lq+SszJi6EANjk29x7tvRc7CJz5eseQPUXs+Ic=

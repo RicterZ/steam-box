@@ -1,18 +1,19 @@
-# Instruction Manual of Ricter Z
+Instruction Manual of Ricter Z
+====
 
-## Whoami
+### Whoami
 - Cat's slave, 猫猫天下第一！
 - A hacker, a programmer and a ~~hentai~~
 - An independent securirty researcher foucs on large scale softwares 
 
-## Blog
+### Blog
 - Current maintaining: https://ricterz.me/
 - Archived: https://blog.ricterz.me/
 - Weibo: https://weibo.com/r1cterz
 - Instagram (protected): https://www.instagram.com/ricterz/
 - Twitter (protected): https://twitter.com/ykco_z
 
-## Games
+### Games
 - FFXIV
 - World of Warships
 - Majsoul

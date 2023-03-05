@@ -2,7 +2,7 @@
 
 ### Whoami
 - Cat's slave, 猫猫天下第一！
-- A hacker, a programmer and an ~~hentai~~
+- A hacker, a programmer and a ~~hentai~~
 - An independent securirty researcher foucs on large scale softwares 
 
 ### Blog

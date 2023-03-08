@@ -7,7 +7,7 @@ Instruction Manual of Ricter Z
 - An independent securirty researcher foucs on large scale softwares 
 
 ### Blog
-- Current maintaining: https://ricterz.me/
+- Currently maintained: https://ricterz.me/
 - Archived: https://blog.ricterz.me/
 - Weibo: https://weibo.com/r1cterz
 - Instagram (protected): https://www.instagram.com/ricterz/

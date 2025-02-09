@@ -4,7 +4,8 @@ Instruction Manual of Ricter Z
 ### Whoami
 - Cat's slave, 猫猫天下第一！
 - A hacker, a programmer and a ~~hentai~~
-- An independent securirty researcher foucs on large scale softwares 
+- An independent securirty researcher foucs on large scale softwares
+- The bigest fan of Nimodi :)
 
 ### Blog
 - Currently maintained: https://ricterz.me/

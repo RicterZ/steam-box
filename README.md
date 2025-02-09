@@ -15,8 +15,7 @@ Instruction Manual of Ricter Z
 - Twitter (protected): https://twitter.com/ykco_z
 
 ### Games
-- FFXIV, FFVII Rebrith
-- World of Warships
-- Majsoul
-- Watch Dogs 1/2, Nier Automata serial, Far Cry serail, Cyberpunk 2077, osu, ...
+- FFXIV, FFVII
+- World of Warships, Majsoul
+- Watch Dogs 1 and 2, Nier Automata, Far Cry, Cyberpunk 2077, osu, ...
 

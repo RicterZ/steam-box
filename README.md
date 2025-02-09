@@ -14,8 +14,13 @@ Instruction Manual of Ricter Z
 - Instagram (protected): https://www.instagram.com/ricterz/
 - Twitter (protected): https://twitter.com/ykco_z
 
+### CVEs
+- I don't really care about those stuff ...
+- Hack everything I want to
+
 ### Games
-- FFXIV, FFVII
-- World of Warships, Majsoul
-- Watch Dogs 1 and 2, Nier Automata, Far Cry, Cyberpunk 2077, osu, ...
+- FFXIV, FFVII, Nier Automata
+- World of Warships, Majsoul, osu
+- Watch Dogs, Far Cry, Cyberpunk 2077
+- The Legend of Zelda, Xenoblade
 
